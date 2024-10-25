@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158557455704",
+    "project_id": "aapka-parking-2",
+    "storage_bucket": "aapka-parking-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158557455704:android:51dcc9c868afd6830a912d",
+        "android_client_info": {
+          "package_name": "com.example.aapkaparking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhMAUczG9KjQZnQsydVuWwvcubCEPzJs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
